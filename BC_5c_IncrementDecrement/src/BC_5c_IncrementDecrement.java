@@ -1,4 +1,4 @@
-public class Main {
+public class BC_5c_IncrementDecrement {
     public static void main(String[] args) {
 
         // Increment and Decrement Operators

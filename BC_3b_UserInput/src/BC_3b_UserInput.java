@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BC_3b_UserInput {
     public static void main(String[] args) {
 
         double width;

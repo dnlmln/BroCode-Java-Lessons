@@ -1,4 +1,4 @@
-public class App {
+public class BC_2_Variables {
     public static void main(String[] args) {
         
         // Primitive Variables: int, double, char, boolean

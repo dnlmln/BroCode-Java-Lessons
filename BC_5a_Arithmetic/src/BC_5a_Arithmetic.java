@@ -1,4 +1,4 @@
-public class Main {
+public class BC_5a_Arithmetic {
     public static void main(String[] args) {
 
         // Arithmetic Operators

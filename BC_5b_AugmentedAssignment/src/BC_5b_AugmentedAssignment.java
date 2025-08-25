@@ -1,4 +1,4 @@
-public class Main {
+public class BC_5b_AugmentedAssignment {
     public static void main(String[] args) {
 
         // Augmented Assignment Operators

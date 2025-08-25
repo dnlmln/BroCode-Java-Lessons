@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BC_4_MadLibs {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

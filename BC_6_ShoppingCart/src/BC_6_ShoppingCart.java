@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class BC_6_ShoppingCart {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);

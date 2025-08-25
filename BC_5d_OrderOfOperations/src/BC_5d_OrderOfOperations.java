@@ -1,4 +1,4 @@
-public class Main {
+public class BC_5d_OrderOfOperations {
     public static void main(String[] args) {
 
         // Oreder of Operations (P-E-M-D-A-S)
