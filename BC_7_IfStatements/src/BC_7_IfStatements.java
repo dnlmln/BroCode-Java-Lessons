@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BroCode7_IfStatements {
+public class BC_7_IfStatements {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
