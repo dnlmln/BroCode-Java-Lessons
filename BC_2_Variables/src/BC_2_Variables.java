@@ -11,16 +11,12 @@ public class BC_2_Variables {
         int quantity = 1;
 
         double price = 19.99;
-        double gpa = 3.5;
-        double temperature = -12.5;
 
         char grade = 'A';
         char symbol = '!';
         char currency = '$';
        
         boolean isStudent = true;
-        boolean forSale = false;
-        boolean isOnline = true;
 
         String name = "Daniel Milani";
 
@@ -30,8 +26,8 @@ public class BC_2_Variables {
 
         System.out.println("Your price is: " + "$" + price );
 
-        System.out.println("Your grade is: " + grade );
-        System.out.println("Your price is: " + currency + price );
+        System.out.println("Your grade is: " + grade + symbol);
+        System.out.println("Your price is: " + currency + price + symbol);
 
         System.out.println(isStudent);
 
