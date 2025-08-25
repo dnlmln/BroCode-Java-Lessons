@@ -3,7 +3,7 @@ public class Main {
 
         // Increment and Decrement Operators
 
-        int x = 1;
+        int x = 5;
         //int y = 3;
 
         // x = x + y;
