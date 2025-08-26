@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BC_3a_UserInput {
+public class BC_03_UserInput_Student {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

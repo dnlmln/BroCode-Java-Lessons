@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BC_3b_UserInput {
+public class BC_03_UserInput_SquareCalc {
     public static void main(String[] args) {
 
         double width;
