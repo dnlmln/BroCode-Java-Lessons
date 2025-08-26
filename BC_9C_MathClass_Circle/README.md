@@ -1,3 +1,8 @@
+## Youtube: Java Full Course Chapter Link
+
+https://youtu.be/xTtL8E4LzTQ?si=t23kD59UYUt_OS4E&t=5248
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
