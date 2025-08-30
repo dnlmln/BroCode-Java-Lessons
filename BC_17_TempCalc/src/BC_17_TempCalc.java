@@ -26,7 +26,7 @@ public class BC_17_TempCalc {
 
         newTemp = (unit.contains("F")) ? ( ( temp * 9/5 ) + 32) : ( ( temp - 32 ) * 5 / 9 );
 
-        System.out.printf("The value of %.2f converted to °%s is %.2f. \n",temp, unit, newTemp);
+        System.out.printf("The value of %.1f converted to °%s is %.1f. \n",temp, unit, newTemp);
 
         sc.close();
     }
