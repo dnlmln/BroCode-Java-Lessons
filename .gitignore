@@ -25,3 +25,10 @@ replay_pid*
 
 #
 .DS*
+
+# vscode
+.vscode/
+
+# intellij
+.idea/
+.iml
