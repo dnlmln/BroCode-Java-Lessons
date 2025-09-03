@@ -31,4 +31,5 @@ replay_pid*
 
 # intellij
 .idea/
-.iml
+*.iml
+#*/.iml
