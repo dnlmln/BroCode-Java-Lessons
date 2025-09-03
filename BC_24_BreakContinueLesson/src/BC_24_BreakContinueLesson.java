@@ -1,5 +1,5 @@
 public class BC_24_BreakContinueLesson {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
         // break    = break out of a loop (STOP)
         // continue = skip current iteration fo a loop (SKIP)
