@@ -29,7 +29,11 @@ replay_pid*
 # vscode
 .vscode/
 
-# intellij
+### IntelliJ IDEA ###
 .idea/
 *.iml
-#*/.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+
