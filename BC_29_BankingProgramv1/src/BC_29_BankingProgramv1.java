@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BC_29_BankingProgram {
+public class BC_29_BankingProgramv1 {
 
     //static double balance = 0.0;
 
